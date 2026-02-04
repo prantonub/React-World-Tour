@@ -4,6 +4,10 @@
     gap: 10px;
 }
 .visited{
-    background-color: goldenrod;
+    background-color: rgb(12, 224, 239);
     color: black;
+}
+.flag-container img{
+    width: 100px;
+
 }
